@@ -1,5 +1,5 @@
 info:
-  description: Spring Cloud Samples v2
+  description: Spring Cloud Samples v3
   url: https://github.com/spring-cloud-samples
 eureka:
   client:
