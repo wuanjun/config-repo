@@ -6,7 +6,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
       
-foo: baz v1
+foo: baz v2
 
 ---
 spring:
