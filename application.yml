@@ -7,6 +7,9 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
       
 foo: baz v5
+zuul:
+  request:
+    debug: true
 
 ---
 spring:
